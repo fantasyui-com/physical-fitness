@@ -6,10 +6,6 @@ physical-fitness is a cross-platform (Windows, Mac, and Linux) app-store with to
 ![](screenshot.png)
 
 ## Roadmap, Categories, and Ideas
-- Apps for Generating Ideas
-- Tools for Collecting writing entries
-- Apps for voting/choosing a seed idea
-- Tools for planning drafts
-- Apps to help track revisions to content and quality
-- Tools that help improve grammar
-- Tools that help with publishing
+Army Physical Fitness Trainer (Push-ups, Sit-ups, Two Mile run)
+Couch to 5Kcustom  trainer
+Workout Builder
